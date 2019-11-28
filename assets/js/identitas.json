@@ -1,0 +1,56 @@
+
+    
+    {
+        "barang":[
+                {
+                    "id"    : 1,
+                    "img"   : "images1",
+                    "nama"  : "[ PO - DP ] ALBUM GFRIEND FEVER SEASON",
+                    "harga" : "Rp.100.000,-"
+                },
+                {
+                    "id"    : 2,
+                    "img"   : "images2",
+                    "nama"  : "MAMAMOO - 4colors (CD) [REG]",
+                    "harga" : "Rp.510.000,-"
+                },
+                {
+                    "id"    : 3,
+                    "img"   : "images3",
+                    "nama"  : "RED VELVET - PERFECT VELVET [2ND FULL ALBUM]",
+                    "harga" : "Rp.275.000,-"
+                },
+                {
+                    "id"    : 4,
+                    "img"   : "images4",
+                    "nama"  : "CD ALBUM TWICE - THE STORY BEGINS",
+                    "harga" : "Rp.245.000,-"
+                },
+                {
+                    "id"    : 5,
+                    "img"   : "images5",
+                    "nama"  : "SUPER JUNIOR 9th Album - TIME SLIP",
+                    "harga" : "Rp.285.000,-"
+                },
+                {
+                    "id"    : 6,
+                    "img"   : "images6",
+                    "nama"  : " BLACKPINK 2nd Mini Album Photocard “Kill This Love” PC",
+                    "harga" : "Rp.59.000,-"
+                },
+                {
+                    "id"    : 7,
+                    "img"   : "images7",
+                    "nama"  : "[Regular PO] Lee Hi Mini Album - 24℃",
+                    "harga" : "Rp.265.000,-"
+                },
+                {
+                    "id"    : 8,
+                    "img"   : "images8",
+                    "nama"  : "Mamamoo: Wheein - Single Album [ SOAR ]",
+                    "harga" : "Rp.350.000,-"
+                }
+                
+                
+            ]
+    }
